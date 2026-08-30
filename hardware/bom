@@ -1,1 +1,20 @@
+Microwave Sensor	HB100 (10.525 GHz)	OEM Castellation Module	1	
+Online Only
+
+Operational Amplifier	LM324N (Texas Instruments)	14-PDIP (Through-Hole)	2	
+DigiKey
+
+Electrolytic Capacitor	10µF (Rubycon)	Radial Through-Hole	2	
+DigiKey
+
+Ceramic Capacitor	100nF / 0.1µF (Vishay)	Radial Disc (Code "104")	1	
+DigiKey / Assortment Kit
+
+Fixed Resistors	10K and 100K	Standard Through-Hole	Multiple	
+Arduino Starter Kit
+
+Microcontroller	Arduino (Uno, Nano, or Mega)	Dev Board	1	
+Arduino Starter Kit
+
+
 
