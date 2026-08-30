@@ -14,3 +14,4 @@ AC-Coupling: Electrolytic capacitors (10uF) manage inter-stage coupling, blockin
 
 Target Bandwidth: Designed to isolate frequencies between 1,000 Hz and 4,000 Hz, capturing the precise 31.36 Hz per 1 mph Doppler shift of a baseball.
 
+The microcontroller processes the conditioned analog waveform using a 128-point Fast Fourier Transform (FFT) to convert time-domain periodic signals into discrete frequency components.
